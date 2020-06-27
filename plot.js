@@ -33,8 +33,8 @@ d3.json("data/data.json").then((incomingData) => {
   // Define the plot layout
   var layout = {
     title: "The highest critically acclaimed movies.",
-    xaxis: { title: "Title" },
-    yaxis: { title: "Metascore (Critic) Rating"}
+    xaxis: { title: "Cat Mansion" },
+    yaxis: { title: "Boobs""}
   };
 
   // Plot the chart to a div tag with id "bar-plot"
